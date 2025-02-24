@@ -6,7 +6,7 @@ SSCI-02_2025 (Social Sciences Citation Index)
 
 ESCI(Incomplete)-02_2025 (Emerging Sources Citation Index - Incomplete)
 
-These sheets list journals indexed in SSCI within the Education & Educational Research category.
+These sheets list journals indexed in SSCI/ESCI within the Education & Educational Research category.
 
 Key columns:
 
