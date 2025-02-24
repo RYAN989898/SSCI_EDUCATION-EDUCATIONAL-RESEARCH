@@ -3,6 +3,7 @@
 File containing journal ranking data in the field of Education & Educational Research, extracted from the Journal Citation Reports (JCR) for February 2025. It includes two sheets:
 
 SSCI-02_2025 (Social Sciences Citation Index)
+
 ESCI(Incomplete)-02_2025 (Emerging Sources Citation Index - Incomplete)
 
 These sheets list journals indexed in SSCI within the Education & Educational Research category.
